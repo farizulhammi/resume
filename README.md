@@ -25,7 +25,8 @@ Admin :
 ### User
 
 ```bash
-username : 1  password : 2
+username : 1
+password : 2
 ```
 
 Saya Menggunakan Template Dari <a href="https://bootstrapious.com/" target="_blank">Bootstrapious</a>
