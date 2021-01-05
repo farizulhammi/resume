@@ -29,7 +29,6 @@ username : 1
 password : 2
 ```
 
-Saya Menggunakan Template Dari <a href="https://bootstrapious.com/" target="_blank">Bootstrapious</a>
+Template Dari <a href="https://bootstrapious.com/" target="_blank">Bootstrapious</a>
 
-Project Gabut :v
 
